@@ -20,7 +20,7 @@ Diabetes Pedigree Function - Diabetes pedigree function
 
 Age - Age (years)
 
-We as a team did data analysis , data cleaning, feature engineering , created visulizations and created ML models like - Linear Regression, Lasso, Ridge, Elastic net, Polynomial regression model to find the model with the highest accuracy and measured the accuracy through different paramters as MSE,RMSE etc.
+We as a team did data analysis , data cleaning, feature engineering , created visulizations and created ML models like - Logistic Regression, SVM with liner kernel, SVM with RBF kernel, SVM with Poly kernel, SVM with Hyper Paramter learning, Naive based classifer,KNN Classifier model to find the model with the highest accuracy and measured the accuracy through classification report an confusion matrix.
 
 The data set for the same is uploaded as DIABETIC.csv
 
